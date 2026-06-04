@@ -1,0 +1,19 @@
+race_id,race_date,grand_prix,season,driver_id,driver_name,team,circuit,country,start_position,finish_position,points,laps_completed,fastest_lap_ms,nationality
+1,2024-03-02,Bahrain Grand Prix,2024,ver,Max Verstappen,Red Bull Racing,Bahrain International Circuit,Bahrain,1,1,25,57,92.184,Dutch
+1,2024-03-02,Bahrain Grand Prix,2024,per,Sergio Perez,Red Bull Racing,Bahrain International Circuit,Bahrain,5,2,18,57,92.842,Mexican
+1,2024-03-02,Bahrain Grand Prix,2024,lec,Charles Leclerc,Ferrari,Bahrain International Circuit,Bahrain,2,3,15,57,93.105,Monegasque
+2,2024-03-09,Saudi Arabian Grand Prix,2024,ver,Max Verstappen,Red Bull Racing,Jeddah Corniche Circuit,Saudi Arabia,1,1,25,50,88.674,Dutch
+2,2024-03-09,Saudi Arabian Grand Prix,2024,alo,Fernando Alonso,Aston Martin,Jeddah Corniche Circuit,Saudi Arabia,4,3,15,50,89.441,Spanish
+2,2024-03-09,Saudi Arabian Grand Prix,2024,lec,Charles Leclerc,Ferrari,Jeddah Corniche Circuit,Saudi Arabia,2,4,12,50,89.823,Monegasque
+3,2024-03-24,Australian Grand Prix,2024,sai,Carlos Sainz Jr.,Ferrari,Albert Park Grand Prix Circuit,Australia,2,1,25,58,88.901,Spanish
+3,2024-03-24,Australian Grand Prix,2024,nor,Lando Norris,McLaren,Albert Park Grand Prix Circuit,Australia,3,2,18,58,89.442,British
+3,2024-03-24,Australian Grand Prix,2024,pia,Oscar Piastri,McLaren,Albert Park Grand Prix Circuit,Australia,5,4,12,58,89.998,Australian
+4,2024-04-07,Japanese Grand Prix,2024,ver,Max Verstappen,Red Bull Racing,Suzuka Circuit,Japan,1,1,25,53,91.210,Dutch
+4,2024-04-07,Japanese Grand Prix,2024,nor,Lando Norris,McLaren,Suzuka Circuit,Japan,3,2,18,53,91.744,British
+4,2024-04-07,Japanese Grand Prix,2024,ham,Lewis Hamilton,Mercedes,Suzuka Circuit,Japan,7,3,15,53,91.985,British
+5,2024-04-21,Chinese Grand Prix,2024,ver,Max Verstappen,Red Bull Racing,Shanghai International Circuit,China,1,1,25,56,96.201,Dutch
+5,2024-04-21,Chinese Grand Prix,2024,ham,Lewis Hamilton,Mercedes,Shanghai International Circuit,China,2,2,18,56,96.884,British
+5,2024-04-21,Chinese Grand Prix,2024,rus,George Russell,Mercedes,Shanghai International Circuit,China,4,3,15,56,97.102,British
+6,2024-05-05,Miami Grand Prix,2024,ver,Max Verstappen,Red Bull Racing,Miami International Autodrome,United States,1,1,25,57,94.551,Dutch
+6,2024-05-05,Miami Grand Prix,2024,nor,Lando Norris,McLaren,Miami International Autodrome,United States,5,2,18,57,95.033,British
+6,2024-05-05,Miami Grand Prix,2024,lec,Charles Leclerc,Ferrari,Miami International Autodrome,United States,3,3,15,57,95.414,Monegasque
